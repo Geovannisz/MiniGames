@@ -160,7 +160,7 @@ massive_objects = [central_mass]
 
 # Criação das partículas
 particles = []
-num_particles = 40
+num_particles = 100
 initial_velocity = 5
 
 for i in range(num_particles):
