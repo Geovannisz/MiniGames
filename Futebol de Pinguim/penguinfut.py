@@ -5,22 +5,6 @@ import time
 # Inicialização do Pygame
 pygame.init()
 
-
-# Constantes do jogo
-TELA_LARGURA, TELA_ALTURA = 1200, 800  # Tamanho do campo aumentado
-COR_BG = (80, 200, 80)  # Cor de fundo (azul)
-VELOCIDADE_PINGUIM = 5
-VELOCIDADE_BOLA = 12
-VELOCIDADE_BOT = 3
-COR_PINGUIM = (0, 0, 0)  # Cor do pinguim (preto)
-COR_BICO_PES = (255, 165, 0)  # Cor do bico e dos pés (laranja)
-COR_BOLA = (255, 255, 255)  # Cor da bola (branco)
-TAMANHO_GOL = (50, 150)  # Tamanho do gol alterado para ser maior verticalmente
-COR_TEXTO = (255, 255, 255)  # Cor do texto (branco)
-FONT = pygame.font.Font(None, 36)
-TEMPO_JOGO = 60  # Tempo de duração do jogo em segundos
-
-
 # Constantes do jogo
 TELA_LARGURA, TELA_ALTURA = 1200, 800  # Tamanho do campo aumentado
 COR_BG = (80, 200, 80)  # Cor de fundo (azul)
