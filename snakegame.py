@@ -136,4 +136,3 @@ def main():
 
 # Executar o jogo
 main()
-
