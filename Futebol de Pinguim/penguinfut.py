@@ -350,7 +350,7 @@ while rodando:
     pygame.display.flip()
 
     # Manter o jogo rodando a 60fps
-    clock.tick(60)
+    clock.tick(140)
 
 # Finalizar Pygame
 pygame.quit()
